@@ -1,0 +1,10 @@
+name: Events
+version: 1.0
+main: me.Jelle30.Events.Main
+permissions:
+  Events.*:
+    description: Gives all permissions for Events.
+  Events.open.chest:
+    description: Gives permission to open chests
+  Events.throw.egg:
+    description: Gives permission to throw eggs.
